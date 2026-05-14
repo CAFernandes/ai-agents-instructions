@@ -40,6 +40,14 @@ This repository provides production-ready instructions to use with GitHub Copilo
 - Agent Product Thinking Agent: Foco em trade-offs, escopo, valor e viabilidade técnico-produto.
 - Agent Compliance Governance Guard: Foco em conformidade, governança e rastreabilidade.
 
+### Agentes frontend | Frontend agents
+
+- Agent UI-UX Design System Guardian: Foco em consistência visual, design tokens e padrões de interface.
+- Agent Accessibility Guardian (A11y): Foco em acessibilidade WCAG, semântica e navegação inclusiva.
+- Agent Browser Performance Optimizer: Foco em Core Web Vitals e performance percebida no navegador.
+- Agent UI Testing Strategist: Foco em estratégia de testes de interface e estabilidade de suíte UI/E2E.
+- Agent Responsive Mobile-First Guardian: Foco em responsividade e experiência mobile-first.
+
 ## Estrutura do repositório | Repository Structure
 
 docs/
@@ -53,6 +61,11 @@ docs/
 - Agent Observability Architect.md
 - Agent Product Thinking Agent.md
 - Agent Compliance Governance Guard.md
+- Agent UI-UX Design System Guardian.md
+- Agent Accessibility Guardian (A11y).md
+- Agent Browser Performance Optimizer.md
+- Agent UI Testing Strategist.md
+- Agent Responsive Mobile-First Guardian.md
 - Agent Template.md
 
 ## Como usar | How To Use
